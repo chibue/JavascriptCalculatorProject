@@ -2,6 +2,9 @@
 body{
 	font-family: 'Open Sans',sans-serif;
 	background-color: rgb(12, 12, 12);
+	position:fixed;
+	top:10%;
+	left:18%;
 }
 #container{
 	width: 1000px;
