@@ -1,7 +1,7 @@
 
 body{
 	font-family: 'Open Sans',sans-serif;
-	background-color: black;
+	background-color: rgb(12, 12, 12);
 }
 #container{
 	width: 1000px;
@@ -61,6 +61,11 @@ body{
 .operator:focus, .number:focus, .empty:focus{
 	outline: 0;
 }
+/* #divide{
+	font-size: 20px;
+	background-color: #20b2aa;
+
+} */
 button:nth-child(4){
 	font-size: 20px;
 	background-color: #20b2aa;
@@ -81,3 +86,4 @@ button:nth-child(20){
 	font-size: 20px;
 	background-color: #9477af;
 } 
+
