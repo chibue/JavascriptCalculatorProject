@@ -1,3 +1,4 @@
+@media screen and (max-width: 2000px){
 
 body{
 	font-family: 'Open Sans',sans-serif;
@@ -90,3 +91,4 @@ button:nth-child(20){
 	background-color: #9477af;
 } 
 
+}
