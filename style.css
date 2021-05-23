@@ -18,6 +18,7 @@ body{
 		/* background-repeat: no-repeat; */
 		/* background-size: 1200px 750px; */
 		padding: 15px;
+		overflow: scroll;
 
 	
 	}
